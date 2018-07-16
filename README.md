@@ -13,3 +13,8 @@ Originally made by Nebukazar
 
 Add this to your uBlock Origin filters:<br>
 `@@||boards.4chan.org^$csp`
+
+<br>
+
+## To-do
+* Update links to point at non-404 equivalents
